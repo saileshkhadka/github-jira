@@ -10,3 +10,4 @@ modules:
 app:
   id: ari:cloud:ecosystem::app/587ef6e8-c975-4746-83d0-f7884c750901
   name: helloworld-app
+
